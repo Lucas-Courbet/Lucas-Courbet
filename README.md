@@ -1,18 +1,17 @@
 # Lucas Courbet
 
-Développeur logiciel principalement orienté **backend .NET / C#**.
+Software developer primarily focused on **.NET / C# backend development**.
 
-Expérience professionnelle majoritairement en développement .NET, mais aussi Ruby on Rails, NodeJS, avec aujourd'hui un positionnement principalement centré sur l'écosystème .NET. 
-J'ai également eu une expérience de Scrum Master en entreprise.
+Professional experience mainly in .NET development, with additional experience in Ruby on Rails and WinDev. I also worked as a Scrum Master within my previous team.
 
-## Projet principal
+## Featured project
 
 ### [CommunityBot](https://github.com/Lucas-Courbet/CommunityBot)
 
-Projet public en .NET 10 / PostgreSQL, adapté d'une application privée plus importante que je développe et maintiens.
+Public .NET 10 / PostgreSQL project adapted from a larger private application that I build and maintain.
 
-Il met notamment en œuvre une architecture en couches, des workflows transactionnels, de la gestion de concurrence, des traitements asynchrones durables, EF Core, PostgreSQL, Testcontainers, Docker et une CI GitHub Actions.
+It demonstrates layered architecture, transactional workflows, concurrency control, durable background processing, EF Core, PostgreSQL, Testcontainers, Docker and GitHub Actions CI.
 
-## Liens
+## Links
 
 [LinkedIn](https://www.linkedin.com/in/lucas-courbet/)
