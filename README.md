@@ -2,7 +2,7 @@
 
 Software developer primarily focused on **.NET / C# backend development**.
 
-Professional experience mainly in .NET development, with additional experience in Ruby on Rails and WinDev. I also worked as a Scrum Master within my previous team.
+Professional experience mainly in .NET development, with additional experience in Ruby on Rails and VueJS. I also worked as a Scrum Master within my previous team.
 
 ## Featured project
 
